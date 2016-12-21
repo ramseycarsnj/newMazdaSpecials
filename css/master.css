@@ -67,12 +67,13 @@ a:hover {
   background-color: #1865a8;
 }
 #slideshow {
-    margin: 50px 0;
-    position: relative;
-    width: 800px;
-    height: 290px;
-    padding: 10px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.4);
+  background-color: #ffffff;
+  margin: 50px 0;
+  position: relative;
+  width: 800px;
+  height: 290px;
+  padding: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.4);
 }
 .slideshowImg {
   height: 240px;
@@ -86,6 +87,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow2 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 800px;
@@ -101,6 +103,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow3 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 800px;
@@ -116,6 +119,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow4 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 800px;
@@ -131,6 +135,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow5 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 800px;
@@ -146,6 +151,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow6 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 800px;

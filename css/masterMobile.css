@@ -65,6 +65,7 @@ a:hover {
   background-color: #1476CA;
 }
 #slideshow {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 270px;
@@ -86,6 +87,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow2 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 270px;
@@ -101,6 +103,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow3 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 270px;
@@ -116,6 +119,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow4 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 270px;
@@ -131,6 +135,7 @@ a:hover {
     bottom: 10px;
 }
 #slideshow5 {
+  background-color: #ffffff;
     margin: 50px 0;
     position: relative;
     width: 270px;
